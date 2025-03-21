@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\Containers\Containers\bin\Debug\net9.0\Containers.exe
+C:\Users\Lenovo\RiderProjects\Containers\Containers\bin\Debug\net9.0\Containers.deps.json
+C:\Users\Lenovo\RiderProjects\Containers\Containers\bin\Debug\net9.0\Containers.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\Containers\Containers\bin\Debug\net9.0\Containers.dll
+C:\Users\Lenovo\RiderProjects\Containers\Containers\bin\Debug\net9.0\Containers.pdb
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.dll
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\refint\Containers.dll
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.pdb
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\Containers.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\Containers\Containers\obj\Debug\net9.0\ref\Containers.dll
